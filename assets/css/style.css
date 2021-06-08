@@ -1,0 +1,37 @@
+body{
+    margin:0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(35deg, teal, rgb(34, 53, 160), purple);
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#keyboard{
+    margin: 0 auto;
+    margin-top: 10vh;
+    width:400px;
+    height: 100px;
+    
+}
+
+button{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+h1{
+margin: 0 auto;
+font-size: 48px;
+text-align: center;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+
+}
+img{
+    width: 20vw;
+}
+a{
+    text-decoration: none;
+    color: thistle;
+}
